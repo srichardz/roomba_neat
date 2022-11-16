@@ -1,0 +1,4 @@
+HEIGHT : 5      # meters, m*ppu to get in pixels
+WIDTH  : 10
+
+ppu : 100       # pixel per unit, in this case px/m
